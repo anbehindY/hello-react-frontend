@@ -1,6 +1,6 @@
-import React from "react";
-import Greeting from "./components/greeting";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Greeting from './components/greeting';
 
 function App() {
   return (
